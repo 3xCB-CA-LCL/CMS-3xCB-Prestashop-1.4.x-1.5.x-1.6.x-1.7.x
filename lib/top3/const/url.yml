@@ -1,0 +1,24 @@
+eligibility: 
+  prod: http://qualif.global-fianet.fia/top3-ws/eligible/
+  test: https://rct.3foiscb-sofinco.fr/ws/v1/eligible/
+frontline: 
+  prod: http://qualif.global-fianet.fia/top3-frontend/xmlfeed
+  test: https://rct.3foiscb-sofinco.fr/front/xmlfeed
+validatetransaction: 
+  prod: http://qualif.global-fianet.fia/top3-ws/validatetransaction/
+  test: https://rct.3foiscb-sofinco.fr/ws/v1/validatetransaction/
+partiallyvalidatetransaction: 
+  prod: http://qualif.global-fianet.fia/top3-ws/partiallyvalidatetransaction/
+  test: https://rct.3foiscb-sofinco.fr/ws/v1/partiallyvalidatetransaction/
+canceltransaction: 
+  prod: http://qualif.global-fianet.fia/top3-ws/canceltransaction/
+  test: https://rct.3foiscb-sofinco.fr/ws/v1/canceltransaction/
+cancelprecedentorder: 
+  prod: http://qualif.global-fianet.fia/top3-ws/cancelprecedentorder/
+  test: https://rct.3foiscb-sofinco.fr/ws/v1/cancelprecedentorder/
+gettransaction:
+  prod: http://qualif.global-fianet.fia/top3-ws/gettransaction/
+  test: https://rct.3foiscb-sofinco.fr/ws/v1/gettransaction/
+backoffice: 
+  prod: https://www.3foiscb-sofinco.fr/bo/login
+  test: https://rct.3foiscb-sofinco.fr/bo/login

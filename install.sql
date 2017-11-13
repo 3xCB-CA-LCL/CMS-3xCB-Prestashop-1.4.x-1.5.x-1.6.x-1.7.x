@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS `PREFIX_TOP3_ORDER_TABLE_NAME` (	`id_order` int(10) unsigned NOT NULL auto_increment,	`id_cart` int(10),	`top3_reference` varchar(20),	`state` varchar(40),	`event` varchar(40),	`date` varchar(20),	`payment_type` varchar(20),	PRIMARY KEY (`id_order`)) ENGINE=MyISAM  DEFAULT CHARSET=utf8;

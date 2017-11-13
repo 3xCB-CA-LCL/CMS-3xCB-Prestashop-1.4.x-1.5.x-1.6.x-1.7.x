@@ -1,0 +1,8 @@
+---
+siteID: '00000028'
+login: login
+password: password
+authkey: test
+cryptversion: 3.0
+defaultdeliverytime: 5
+status: prod
